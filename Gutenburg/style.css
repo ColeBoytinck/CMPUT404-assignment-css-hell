@@ -1,0 +1,26 @@
+body {
+	background-image: url("scroll.jpg");
+}
+
+p {
+  color: Black;
+  font-size: 150%;
+  font-family: Brush Script MT;
+}
+
+h1 {
+  color: Black;
+  font-family: Brush Script MT;
+}
+
+h2 {
+  color: Black;
+  font-family: Brush Script MT;
+}
+
+img {
+  border: 1px solid #FFFFFF;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px;
+}
